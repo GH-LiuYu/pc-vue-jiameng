@@ -1,0 +1,200 @@
+.logoFind{
+	width: 476px;
+	border-radius: 5px;
+	background: #fff;
+	margin-right: 54px;
+}
+
+.logoFind .hangYe{
+	width: 92px;
+	text-indent:20px;
+}
+.logoFind .hangYe .i64_hy {
+	margin: 17px 6px 0 15px;
+}
+.logoFind .text{
+	width: 285px!important;
+	background: none;
+}
+.logoFind .btn{
+	width: 83px;
+	border: 0;
+	padding: 0;
+	border-radius: 0;
+	float: right;
+}
+.bottomLa{
+	width:297px;
+	left: 93px;
+	height: auto;
+	overflow: auto;
+	overflow-x: hidden;
+	border-radius: 4px;
+	border: 1px solid #e5e5e5;
+}
+
+/*.bottomLa li{
+	height: 40px;
+	line-height: 40px;
+}*/ 
+.bottomLa li a:hover{
+	/*background:#f7f7f7 url(../images/right.png) no-repeat 250px center!important;
+	background-size: 7px 13px!important;*/
+	color: #000;
+	/*font-weight: bold;
+	border: none;*/
+}
+/*.bottomLa li:hover a{
+	color: #000;
+	font-weight: bold;
+}*/
+
+.indusXiala{
+	width: 392px;
+	height: 240px;
+	overflow: auto;
+	overflow-x: hidden;
+	background: #fff;
+	position: absolute;
+	left: 0;
+	top: 100%;
+	padding: 0;
+	border-radius: 4px;
+	border: 1px solid #e5e5e5;
+}
+.indusXiala li{
+	width: 337px;
+	height: 40px;
+	line-height: 40px;
+	text-align: left;
+	padding: 0 20px;
+}
+.indusXiala li:hover{
+	background: #f9f9f9;
+}
+.indusXiala li:hover a {
+	background: none;
+	color: #000;
+	font-weight: bold;
+}
+.bg{
+	background:#f7f7f7 url(../images/right.png) no-repeat 335px center!important;
+	background-size: 7px 13px!important;
+}
+
+.bg1{
+	background:#f7f7f7 url(../images/right.png) no-repeat 235px center!important;
+	background-size: 7px 13px!important;
+}
+/*滚动的导航*/
+.logoFind2{
+	width: 315px;
+	border-radius: 5px;
+}
+.hangye2{
+	width: 78px;
+	height: 100%;
+	float: left;
+	line-height: 29px;
+	font-size: 14px;
+	text-align: center;
+	text-indent: 2px;
+	background: #fff;
+	position: relative;
+}
+.hangye2 u{
+	position: absolute;
+	width: 1px;
+	height: 12px;
+	background: #e5e5e5;
+	right: 0;
+	top: 9px;
+}
+.hangye2 .i64_hy{
+	margin: 14px 16px 0 0;
+	width: 9px;
+	height: 5px;
+	background-position: -210px -90px;
+}
+.logoFind2 .btn{
+	padding: 0;
+	width: 40px;
+}
+
+.logoFind2 .text{
+	width: 183px;
+	/*text-indent: 10px;*/
+	height: 27px;
+	border-left: 1px solid #e5e5e5;
+	/*margin-top: 8px;*/
+	border-right: none;
+}
+
+.ui-widget-content {
+	top: 538px;
+}
+.phonrLoad .li0_2{
+	padding: 0;
+	/*margin-right: 20px;*/
+}
+.bottomLa1{
+	left: 78px;
+	width: 196px;
+	height: 240px;
+	overflow: auto;
+	overflow-x: hidden;
+	padding: 0!important;
+	border-radius: 4px;
+	border: 1px solid #e5e5e5;
+}
+.bottomLa1 li{
+	height: 40px;
+	line-height: 40px;
+	width: 196px;
+}
+.phonrLoad li:hover{
+	color: #c9c9c9;
+}
+.bottomLa1 li:hover{
+	background:#f7f7f7 url(../images/right.png) no-repeat 160px center!important;
+	background-size: 7px 13px!important;
+	border: none;
+}
+.bottomLa1 li:hover a{
+	color: #000;
+	font-weight: bold;
+	border:none
+}
+.hangyeBox{
+	position: absolute;
+	left: 0;
+	height: 240px;
+	width:271px;
+	top: 100%;
+	overflow: auto;
+	overflow-x: hidden;
+	background: #fff;
+	display: none;
+	border-radius: 4px;
+	border:1px solid #e5e5e5;
+}
+.hangyeBox div{
+	height: 40px;
+	line-height: 40px;
+	padding: 0 13px;
+}
+.hangyeBox div a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	color: #999;
+}
+
+.hangyeBox .item a:hover{
+	color: #000;
+	font-weight: bold;
+
+}
+.hangyeBox .item:hover{
+	background: #f9f9f9;
+}

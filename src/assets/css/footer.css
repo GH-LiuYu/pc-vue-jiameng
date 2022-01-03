@@ -1,0 +1,115 @@
+.footerTop {
+    height: 270px;
+}
+
+.footerTop .left {
+    width: 660px;
+}
+
+.touFang {
+    height: 88px;
+    border-bottom: 1px solid #484848;
+}
+
+.touFang p {
+    background: url('../images/tf_icon.png') no-repeat left center;
+    height: 30px;
+    line-height: 30px;
+    color: #fff;
+    font-size: 18px;
+    padding-left: 36px;
+    margin-top: 32px;
+}
+
+.touFang p em {
+    font-size: 18px;
+    font-family: Arial;
+}
+
+.touFang .p1 {
+    margin-right: 72px;
+}
+
+.footerTop .zhaoShang {
+    padding-bottom: 12px;
+}
+
+.footerTop .zhaoShang .p1 {
+    height: 80px;
+    line-height: 80px;
+    font-size: 15px;
+}
+
+.footerTop .zhaoShang .p1 a {
+    color: #ededed;
+    margin-right: 30px;
+}
+
+.footerTop .zhaoShang .p2 {
+    color: #7d7d7d;
+    font-size: 12px;
+    margin-bottom: 12px;
+}
+
+.footerTop .zhaoShang .p2 .icp {
+    width: 106px;
+    height: 36px;
+    border: 2px solid #7d7d7d;
+}
+
+.footerTop .zhaoShang .p2 .bianH {
+    width: 120px;
+    padding-left: 15px;
+    height: 36px;
+    border: 2px solid #7d7d7d;
+    margin-left: 10px;
+}
+
+.footerTop .zhaoShang .p2 span {
+    line-height: 16px;
+    margin-top: 2px;
+}
+
+.footerTop .zhaoShang .p2 a {
+    float: left;
+    display: block;
+    width: 25px;
+    height: 28px;
+    margin: 4px 8px 0 10px;
+}
+
+.footerTop .right {
+    width: 400px;
+    height: 190px;
+    background: #f0f0f0;
+    margin-right: 0px;
+    margin-top: 40px;
+}
+
+.footerTop .right .app {
+    height: 65px;
+    line-height: 70px;
+    overflow: hidden;
+    color: #454545;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+}
+
+.footerTop .right dl {
+    float: left;
+    width: 90px;
+    margin-left: 34px;
+}
+
+.footerTop .right dl dt {
+    width: 90px;
+    height: 90px;
+}
+
+.footerTop .right dl dd {
+    margin-top: 4px;
+    font-size: 12px;
+    color: #000;
+    text-align: center;
+}
